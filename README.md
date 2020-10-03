@@ -19,7 +19,7 @@ A web crawler, which we generally call a “spider,” is an artificial intellig
 The scraper
 A web scraper is a specialized tool designed to accurately and quickly extract data from a web page. Web scrapers vary widely in design and complexity, depending on the project.
 
-Use
+Use:
 
 Market Research
 Market research is critical – and should be driven by the most accurate information available. High quality, high volume, and highly insightful, web scraped data of every shape and size is fueling market analysis and business intelligence across the globe.
