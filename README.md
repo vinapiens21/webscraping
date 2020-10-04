@@ -25,9 +25,9 @@ A web scraper is a specialized tool designed to accurately and quickly extract d
 <li>Optimizing Point of Entry
 <li>Research & Development
 <li>Competitor Monitoring
-</ul>
+</ul><br>
 <h5>News & Content Monitoring<h5>
-Modern media can create outstanding value or an existential threat to your business - in a single news cycle. If you’re a company that depends on timely news analyses, or a company that frequently appears in the news, web scraping is the ultimate solution for monitoring, aggregating and parsing the most critical stories from your industry.<br><br>
+<h6>Modern media can create outstanding value or an existential threat to your business - in a single news cycle. If you’re a company that depends on timely news analyses, or a company that frequently appears in the news, web scraping is the ultimate solution for monitoring, aggregating and parsing the most critical stories from your industry.<br><br></h6>
 
 <ul><li>Investment Decision Making
 <li>Online Public Sentiment Analysis
