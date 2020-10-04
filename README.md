@@ -17,7 +17,7 @@ A web crawler, which we generally call a “spider,” is an artificial intellig
 A web scraper is a specialized tool designed to accurately and quickly extract data from a web page. Web scrapers vary widely in design and complexity, depending on the project.</ol>
 
 <H3>Use:</H3>
-<h5>Market Research:</h5>
+<ol><h5><li>Market Research:</h5>
 <strong>Market research is critical – and should be driven by the most accurate information available. High quality, high volume, and highly insightful, web scraped data of every shape and size is fueling market analysis and business intelligence across the globe.</strong><br><br>
 
 <ul><li>Market Trend Analysis
@@ -26,10 +26,10 @@ A web scraper is a specialized tool designed to accurately and quickly extract d
 <li>Research & Development
 <li>Competitor Monitoring
 </ul><br>
-<h5>News & Content Monitoring<h5>
-<h6>Modern media can create outstanding value or an existential threat to your business - in a single news cycle. If you’re a company that depends on timely news analyses, or a company that frequently appears in the news, web scraping is the ultimate solution for monitoring, aggregating and parsing the most critical stories from your industry.<br><br></h6>
+<li><h5>News & Content Monitoring<h5>
+<h5>Modern media can create outstanding value or an existential threat to your business - in a single news cycle. If you’re a company that depends on timely news analyses, or a company that frequently appears in the news, web scraping is the ultimate solution for monitoring, aggregating and parsing the most critical stories from your industry.</h5><br><br>
 
 <ul><li>Investment Decision Making
 <li>Online Public Sentiment Analysis
 <li>Competitor Monitoring
-<li>Political Campaigns</ul>
+<li>Political Campaigns</ul></ol>
