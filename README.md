@@ -1,9 +1,7 @@
 # webscraping
 
-<h1>What is web scraping </h1>
+<u><h1>What is web scraping? </h1></u>
 
-
-If you’ve ever copy and pasted information from a website, you’ve performed the same function as any web scraper, only on a microscopic, manual scale.
 
 Web scraping, also known as web data extraction, is the process of retrieving or “scraping” data from a website. Unlike the mundane, mind-numbing process of manually extracting data, web scraping uses intelligent automation to retrieve hundreds, millions, or even billions of data points from the internet’s seemingly endless frontier.
 
