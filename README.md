@@ -10,10 +10,10 @@
 <body> <B><h2>The basics of web scraping:</h2></B><br>
 <strong>It’s extremely simple, in truth, and works by way of two parts: a web crawler and a web scraper. The web crawler is the horse, and the scraper is the chariot. The crawler leads the scraper, as if by the hand, through the internet, where it extracts the data requested.<br><br>
 
-<ol><li>The crawler
+<ol><li><h3>The crawler:<h3>
 A web crawler, which we generally call a “spider,” is an artificial intelligence that browses the internet to index and search for content by following links and exploring, like a person with too much time on their hands.<br><br>
 
-<li>The scraper
+<li><h3>The scraper:<h3>
 A web scraper is a specialized tool designed to accurately and quickly extract data from a web page. Web scrapers vary widely in design and complexity, depending on the project.</ol><strong>
 
 <H3>Use:</H3>
