@@ -8,14 +8,14 @@
 More than a modern convenience, the true power of web scraping lies in its ability to build and power some of the world’s most revolutionary business applications. ‘Transformative’ doesn’t even begin to describe the way some companies use web scraped data to enhance their operations, informing executive decisions all the way down to individual customer service experiences. 
 
 
-The basics of web scraping
-It’s extremely simple, in truth, and works by way of two parts: a web crawler and a web scraper. The web crawler is the horse, and the scraper is the chariot. The crawler leads the scraper, as if by the hand, through the internet, where it extracts the data requested.
+<h3><u>The basics of web scraping</u><h3>
+<li>It’s extremely simple, in truth, and works by way of two parts: a web crawler and a web scraper. The web crawler is the horse, and the scraper is the chariot. The crawler leads the scraper, as if by the hand, through the internet, where it extracts the data requested.
 
-The crawler
+<ul><li>The crawler
 A web crawler, which we generally call a “spider,” is an artificial intelligence that browses the internet to index and search for content by following links and exploring, like a person with too much time on their hands.
 
-The scraper
-A web scraper is a specialized tool designed to accurately and quickly extract data from a web page. Web scrapers vary widely in design and complexity, depending on the project.
+<li>The scraper
+A web scraper is a specialized tool designed to accurately and quickly extract data from a web page. Web scrapers vary widely in design and complexity, depending on the project.</ul>
 
 Use:
 
